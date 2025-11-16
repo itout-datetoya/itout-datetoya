@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a software engineer specializing in **backend development**, with a deep focus on **blockchain technology**, **security**, and **applied cryptography**.
+I'm a software engineer with an interest in **backend development**, with a deep focus on **Go**, **Blockchain**, **Security**, and **Applied Cryptography**.
 
 ---
 
@@ -19,6 +19,9 @@ I'm a software engineer specializing in **backend development**, with a deep foc
 <p align="left">
   <strong>Primary Languages & Frameworks:</strong><br>
   <img src="https://skillicons.dev/icons?i=go,python,react,tailwind&theme=dark" alt="Primary Skills" />
+  <a href="https://gin-gonic.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/gin-gonic/logo/blob/master/color.png" alt="Gin" width="40" height="50" style="margin: 5px;"/>
+  </a>
 </p>
 
 <p align="left">
@@ -39,7 +42,7 @@ I'm a software engineer specializing in **backend development**, with a deep foc
 
 ---
 
-## 🚀 Experience & Key Projects
+## 🚀 Experience
 
 ### 1. Backend & Blockchain Development (Go)
 
